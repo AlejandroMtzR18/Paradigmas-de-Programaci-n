@@ -1,4 +1,4 @@
-            ++++++++++ Mini-instruxtivo de UNIX ++++++++++
+           ++++++++++ Mini-instructivo de UNIX ++++++++++
 
 =======================================================================
 = ls/dir           |  comando para listar lo que hay en el directorio =
@@ -16,7 +16,7 @@
 = cd../../../      |  tres directorios anteriores                     =
 =======================================================================
 
-           ++++++++++ Min- intructivo de vim ++++++++++
+           ++++++++++ Mini-intructivo de vim ++++++++++
 
 =======================================================================
 = cd __nombre__    |  abrir el directorio                             =
@@ -62,18 +62,18 @@
 =======================================================================
 
 
-         +++++++++ Manual de git7gitbub +++++++++
+                +++++++++ Manual de github +++++++++
 
 =======================================================================
 -> Entrar a su cuenta en github.com                                   =
 -> Crear un repositorio en "Paradigmas de Programacion"               =
    Terminal                                                           =
 -> Clonar el repositorio: git clone ___URL____                        =
--> Subir al directorio del repositorio y crear o copiar el archivo que= 
-   vamos a subir a la nube                                            =
+-> Subir al directorio del repositorio y crear o copiar el archivo    =
+   que vamos a subir a la nube                                        =
 -> Añadir: git add ____archivo____                                    =
 -> Descripción: git commit -m "Manual UNIX/VI/GIT"                    =
 -> Subirlo: git push                                                  =
                                                                       =
-   **Password es un TOKEN de GitHub                                   =
+            ***Password es un TOKEN de GitHub                         =
 =======================================================================
