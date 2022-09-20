@@ -170,17 +170,3 @@ def greet():
     global name #Para utilizar una variable global (que viene fuera del bloque)
 
 greet()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
